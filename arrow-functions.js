@@ -18,8 +18,8 @@ const addTwoNumbers = (a, b) => {
     return a + b;
 }
 
-let sum = addTwoNumbers (3, 5);
-console.log(sum);
+let sum1 = addTwoNumbers (3, 5);
+console.log(sum1);
 
 
 // Single Line Arrow Function With Parameters
